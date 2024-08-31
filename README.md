@@ -7,7 +7,7 @@ Define environment variables in .env file at the root of the project . RESEND_AP
 
 Install dependencies:
 ```
-npm install`
+npm install
 # or
 yarn
 ```
